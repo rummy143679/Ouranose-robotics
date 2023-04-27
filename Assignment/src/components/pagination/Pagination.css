@@ -1,0 +1,10 @@
+.row > .col-md-1 {
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    width: 40px;
+    height: 40px;
+    /* background: #00C170; */
+    border-radius: 2px ;
+    cursor: pointer;
+}

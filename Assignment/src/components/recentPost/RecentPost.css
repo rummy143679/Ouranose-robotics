@@ -1,0 +1,36 @@
+.card {
+    padding: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 100px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    margin: 2px;
+} 
+
+.card-subtitle {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: rgba(33, 37, 41, 0.5);
+}
+
+.card-title {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    color: #212529;
+
+}
+
+.card-link {
+    text-decoration: none;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #00C170;
+} 

@@ -1,0 +1,44 @@
+
+
+.top-post-number {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 45px;
+    letter-spacing: 0.2px;
+    color: #212529;
+}
+
+.top-posts-text {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.top-posts-time {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: rgba(33, 37, 41, 0.5);
+}
+
+.content-card {
+    border-radius: 12px;
+}
+
+@media (width > 600px) {
+    .content-left{
+        display: block;
+    }
+}
+
+@media (width <= 600px) {
+    .content-left{
+        display: none;
+    }
+}
